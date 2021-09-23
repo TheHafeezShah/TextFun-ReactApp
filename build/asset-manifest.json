@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextFun-ReactApp/static/css/main.afd7172b.chunk.css",
+    "main.js": "/TextFun-ReactApp/static/js/main.226a4c4b.chunk.js",
+    "main.js.map": "/TextFun-ReactApp/static/js/main.226a4c4b.chunk.js.map",
+    "runtime-main.js": "/TextFun-ReactApp/static/js/runtime-main.5863c0f4.js",
+    "runtime-main.js.map": "/TextFun-ReactApp/static/js/runtime-main.5863c0f4.js.map",
+    "static/js/2.79d92a24.chunk.js": "/TextFun-ReactApp/static/js/2.79d92a24.chunk.js",
+    "static/js/2.79d92a24.chunk.js.map": "/TextFun-ReactApp/static/js/2.79d92a24.chunk.js.map",
+    "static/js/3.8a8ab403.chunk.js": "/TextFun-ReactApp/static/js/3.8a8ab403.chunk.js",
+    "static/js/3.8a8ab403.chunk.js.map": "/TextFun-ReactApp/static/js/3.8a8ab403.chunk.js.map",
+    "index.html": "/TextFun-ReactApp/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/TextFun-ReactApp/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.79d92a24.chunk.js.LICENSE.txt": "/TextFun-ReactApp/static/js/2.79d92a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5863c0f4.js",
+    "static/js/2.79d92a24.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.226a4c4b.chunk.js"
+  ]
+}
